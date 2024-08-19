@@ -31,7 +31,7 @@ This is the Munche Restaurant Partner app which is part of the Munche Customer F
 1. Clone or download the repository :
 
 ```shell
-git clone https://github.com/AdityaV025/Munche.git
+git clone https://github.com/WorkingYashSharma/MunchePartner.git
 ```
 
 2. Import the project into Android Studio.
