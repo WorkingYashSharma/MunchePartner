@@ -6,6 +6,10 @@
 
 This is the Munche Restaurant Partner app which is part of the Munche Customer Facing App, users can add new restaurants and accept/decline orders from the users.Setupt their UPI Payment and their restaurant's location.
 
+# 👓 Also Checkout
+
+<a href="https://github.com/WorkingYashSharma/MuncheUser">Munche User App</a>
+
 # ✨ Features
 - Users can add and edit menu items for different categories.
 - Take payment using UPI or COD.
@@ -55,6 +59,4 @@ keytool -exportcert -list -v \
 
 `Yash Sharma`
 
-# 👓 Also Checkout
 
-<a href="https://github.com/WorkingYashSharma/MuncheUser">Munche User App</a>
